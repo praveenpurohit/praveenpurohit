@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveenpurohit
-- 👀 I’m interested in web devloping
+- 👀 I’m a front end developer
 - 🌱 I’m currently working in @Upper-Digital
 - 💞️ I’m looking to collaborate on projects
 
