@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveenpurohit
-- 👀 I’m a front end developer ( Next.js, React Native and React )
+- 👀 I’m a Full Stack Developer ( Node.js, Next.js, React Native and React )
   
 
 <!---
