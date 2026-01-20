@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @praveenpurohit
+- 👋 Hi, I’m Praveen Kumar
 - 👀 I’m a Full Stack Developer ( Node.js, Next.js, React Native and React )
   
 
